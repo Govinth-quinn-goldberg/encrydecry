@@ -4,7 +4,7 @@ export async function handlClick() {
 
     const encryptedFile = input.files[0];
 
-    const secretKey = document.getElementById("skey").value;
+    const secretKey = document.getElementById("decryptKey").value;
 
     if (!encryptedFile) {
         console.log("Select an encrypted file");
