@@ -1,4 +1,4 @@
-import "./Ui.css"
+import "./UI.css"
 import handleClick from "./Encry";
 import { handlClick } from "./Decry";
 
