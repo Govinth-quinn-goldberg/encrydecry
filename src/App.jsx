@@ -1,5 +1,5 @@
 import './App.css'
-import UI from './UI'
+import UI from './Ui'
 
 function App() {
     return (
